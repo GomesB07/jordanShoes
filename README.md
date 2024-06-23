@@ -6,7 +6,7 @@ O projeto consiste em uma loja inspirada no famoso modelo de tênis (Nike Jordan
 ## 📷 Imagens
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/GomesB07/jordanShoes/blob/master/printScreen/JordanShoesMac.png?raw=true" width="400px" />
+  <img src="https://github.com/GomesB07/jordanShoes/blob/master/printScreen/JordanShoesMac.png?raw=true" width="600px" />
   <img src="https://github.com/GomesB07/jordanShoes/blob/master/printScreen/JordanShoesIphone.png?raw=true" width="200px" />
 </div>
 
