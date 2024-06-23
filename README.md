@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# JordanShoes
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+JordanShoes é uma SPA (Single Page Application) desenvolvida através de um desafio proposto por YuriCode.
+O projeto consiste em uma loja inspirada no famoso modelo de tênis (Nike Jordan) da marca Nike em parceria com o jogador de basquete Michael Jordan.
 
-## Available Scripts
+## 📷 Imagens
 
-In the project directory, you can run:
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/GomesB07/jordanShoes/blob/master/printScreen/JordanShoesMac.png?raw=true" width="800px" />
+  <img src="https://github.com/GomesB07/jordanShoes/blob/master/printScreen/JordanShoesIphone.png?raw=true" width="200px" />
+</div>
 
-### `npm start`
+## 🔗[Clique aqui para Acessar o Projeto](https://jordan-shoes-lemon.vercel.app/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Começando
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-### `npm test`
+### 📋 Pré-requisitos
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Tailwind Css:
 
-### `npm run build`
+```
+npm install -D tailwindcss
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🔧 Instalação
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Para rodar na sua maquina será necessário somente clonar o repositório listado abaixo.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Clone o repositório:
 
-### `npm run eject`
+```
+  https://github.com](https://github.com/GomesB07/jordanShoes)
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🛠️ Construído com
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Mencione as ferramentas que você usou para criar seu projeto
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+* [React](https://react.dev/) - O framework web usado
+* [Tailwind CSS](https://tailwindcss.com/docs/installation) - Framework CSS usado
+* [Material UI - Skeleton](https://mui.com/material-ui/getting-started/) - Biblioteca de componentes usada
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## ✒️ Autores
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* **GomesB07** - *Desenvolvimento* - [GomesB07](https://github.com/GomesB07)
+* **Iuri Silva** - *Template* - [IuriCode](https://github.com/iuricode)
+---
+⌨️ com ❤️ por [GomesB07](https://github.com/GomesB07) 😊
