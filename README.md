@@ -42,6 +42,10 @@ Mencione as ferramentas que você usou para criar seu projeto
 * [Tailwind CSS](https://tailwindcss.com/docs/installation) - Framework CSS usado
 * [Material UI - Skeleton](https://mui.com/material-ui/getting-started/) - Biblioteca de componentes usada
 
+## Acesse o repositório da Api
+
+## 🔗[Clique aqui para Acessar a Api](https://github.com/GomesB07/apiJordanShoes)
+
 ## ✒️ Autores
 
 * **GomesB07** - *Desenvolvimento* - [GomesB07](https://github.com/GomesB07)
