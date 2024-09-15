@@ -31,7 +31,7 @@ Para rodar na sua maquina será necessário somente clonar o repositório listad
 ### Clone o repositório:
 
 ```
-  https://github.com](https://github.com/GomesB07/jordanShoes)
+  https://github.com/GomesB07/jordanShoes
 ```
 
 ## 🛠️ Construído com
